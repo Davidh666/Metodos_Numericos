@@ -16,3 +16,11 @@ Este repositorio contiene la implementación de un modelo de clasificación bina
 Instalación de dependencias:
 ```bash
 pip install -r requirements.txt
+```
+## Para probar que funciona la interfaz pon eso en la terminal
+
+```bash
+python src/inference.py   
+```  
+
+y introduce los datos que te piden para ver si dio
